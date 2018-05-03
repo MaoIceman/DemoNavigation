@@ -1,0 +1,13 @@
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.deps.json
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.dll
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.pdb
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.csproj.CoreCompileInputs.cache
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.App.xaml.g.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.MainPage.xaml.g.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.Page3.xaml.g.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.Page4.xaml.g.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.Pagina2.xaml.g.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.AssemblyInfoInputs.cache
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.AssemblyInfo.cs
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.dll
+D:\XamarinProyectos\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.pdb
